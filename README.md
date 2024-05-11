@@ -15,5 +15,3 @@ I am open to collaborations and discussions on data science, business analytics,
 
 * Email: bhsu@wustl.edu
 * Linkedin: https://www.linkedin.com/in/bosanhsu/
-
-Let's join forces to harness the power of data for a better world!
