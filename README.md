@@ -6,10 +6,11 @@ Hello! I am Bosan Hsu. With years of academic background in Business Analytics, 
 I'm pursuing a Master of Science in Business Analytics and a Master of Accounting at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and accounting. My goal is to provide insight into the data I can utilize.
 
 ## 💡 Projects with My Work
+* **Airy**: The tasks I've done during my internship at Airy.
 * **Washington University**: The school projects and assignments I've done at WashU.
-* **Umich Sports Analytics**: The assignments I've done at UMich's Sports Performance Analytics Specialization via Coursera.
+* **Umich Sports Analytics**: The assignments of UMich's Sports Performance Analytics Specialization via Coursera.
 * **Sports Research**: Individual research on sports.
-* 
+  
 ## 📱 Contact
 I am open to collaborations and discussions on data science, business analytics, and other intriguing subjects. Feel free to connect with me:
 
