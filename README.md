@@ -1,18 +1,19 @@
 # Welcome to Bosan's Github Profile!
 
 ## 👋 About Me
-Hello! I am Bosan Hsu. With years of academic background in Business Analytics, Accounting, and Economics, I get to view things from different perspectives. (e.g. Statistics, Finance, Game Theory, etc) Also, basketball🏀 and baseball⚾ are my favorite sports, and I'm a really great fantasy player. Challenge me!
+Hi there! I’m Bosan Hsu. With a background in Business Analytics, Accounting, and Economics, I’ve got a knack for seeing things from different angles—whether it’s through Statistics, Finance, or Game Theory. I’m also a big sports fan—basketball 🏀 and baseball ⚾ are my favorites—and a serious fantasy sports player. Think you can beat me? Bring it on!
 
-I'm pursuing a Master of Science in Business Analytics and a Master of Accounting at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and accounting. My goal is to provide insight into the data I can utilize.
+Currently, I’m pursuing a Master of Science in Business Analytics and a Master of Accounting at Washington University in St. Louis. My focus is on machine learning, deep learning, cloud computing, database management, and accounting. My ultimate goal? To turn data into actionable insights.
 
-## 💡 Projects with My Work
-* **Airy**: The tasks I've done during my internship at Airy.
-* **Washington University**: The school projects and assignments I've done at WashU.
-* **Umich Sports Analytics**: The assignments of UMich's Sports Performance Analytics Specialization via Coursera.
-* **Sports Research**: Individual research on sports.
+## 💡Projects I’m Proud Of
+
+Airy: Projects from my internship.
+Washington University: My schoolwork and projects from WashU.
+Umich Sports Analytics: Assignments from UMich’s Sports Performance Analytics Specialization on Coursera.
+Sports Research: Personal research into the world of sports.
   
 ## 📱 Contact
-I am open to collaborations and discussions on data science, business analytics, and other intriguing subjects. Feel free to connect with me:
+I’m always up for collaborations or chats about data science, business analytics, or anything else cool. Hit me up!
 
 * Email: bhsu@wustl.edu
 * Linkedin: https://www.linkedin.com/in/bosanhsu/
