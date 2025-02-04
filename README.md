@@ -5,6 +5,7 @@ I thrive at the intersection of Business Analytics, Accounting, and Economics, u
 
 ## 🎓 A Little About My Journey
 I’m pursuing a Master of Science in Business Analytics and a Master of Accounting at Washington University in St. Louis. My academic focus includes:
+
 ✅ Machine Learning & Reinforcement Learning
 
 ✅ Cloud Computing & Database Management
